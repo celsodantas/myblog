@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | Celso Dantas]]></title>
   <link href="http://www.celsodantas.com//blog/categories/code/atom.xml" rel="self"/>
   <link href="http://www.celsodantas.com//"/>
-  <updated>2013-04-08T22:05:59-05:00</updated>
+  <updated>2014-06-07T18:02:36-04:00</updated>
   <id>http://www.celsodantas.com//</id>
   <author>
     <name><![CDATA[Celso Dantas]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Counting files within folder (sub-folder). Shell or Ruby?]]></title>
     <link href="http://www.celsodantas.com//blog/2013/03/26/count-files/"/>
-    <updated>2013-03-26T12:26:00-05:00</updated>
+    <updated>2013-03-26T12:26:00-04:00</updated>
     <id>http://www.celsodantas.com//blog/2013/03/26/count-files</id>
     <content type="html"><![CDATA[<p>I was trying to count how many <code>.java</code> I had in one specific project. At first I tried using shell commands to do it but I find that I could do a easier task with Ruby.</p>
 
